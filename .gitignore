@@ -1,3 +1,10 @@
-target/
 *.jar
 .idea/
+*.class
+*.iml
+.iml
+target
+*.war
+*.ear
+hs_err_pid*
+.idea
